@@ -1,0 +1,111 @@
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+
+1
+Enter the student's name: Arjun Singh
+Arjun Singh has been added to the gradebook.
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+
+2
+Enter the student's name: Arjun Singh
+Enter 5 grades for Arjun Singh: 70 80 90 99 89
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+3
+Arjun Singh's average grade: 85.6
+Class average grade: 85.6
+Highest grade: 99
+Lowest grade: 70
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+
+4
+Enter the student's name: Arjun Singh
+Arjun Singh's grades:
+Grade 1: 70
+Grade 2: 80
+Grade 3: 90
+Grade 4: 99
+Grade 5: 89
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+
+1
+Enter the student's name: Rohan Singh
+Rohan Singh has been added to the gradebook.
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+
+2
+Enter the student's name: Rohan Singh
+Enter 5 grades for Rohan Singh: 89 90 99 88 99
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+
+3
+Arjun Singh's average grade: 85.6
+Rohan Singh's average grade: 93.0
+Class average grade: 89.3
+Highest grade: 99
+Lowest grade: 70
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+4
+Enter the student's name: Rohan Singh
+Rohan Singh's grades:
+Grade 1: 89
+Grade 2: 90
+Grade 3: 99
+Grade 4: 88
+Grade 5: 99
+
+Gradebook System Menu:
+1. Add a student
+2. Assign grades to a student
+3. Calculate and display class statistics
+4. Retrieve individual student grades
+5. Exit
+
+5
+Exiting the gradebook system.
